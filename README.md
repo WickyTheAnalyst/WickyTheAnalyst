@@ -8,15 +8,15 @@ I'm a meticulous data analyst, exploring insights from project inception to prob
 ---
    <p align="left">
       <a href="https://few-part-810763.framer.app/">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a> 
+         <img alt="youtube subscribers" title="My Portfolio Website" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a> 
       <a href="mailto:waqasbinsaifullah@gmail.com">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+         <img alt="youtube subscribers" title="Send me a mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/waqas-ahmad-a5b903149/">
-         <img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+         <img alt="youtube views" title="Connect with me via linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://github.com/WickyTheAnalyst?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://www.upwork.com/freelancers/~012c5eec82d3610ef6">
-         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
+         <img alt="total stars" title="Hire me on Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
        <a href="https://public.tableau.com/app/profile/waqas.ahmad3085/vizzes">
          <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/></a>
    </p>
