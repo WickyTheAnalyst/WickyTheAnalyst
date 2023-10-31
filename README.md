@@ -11,11 +11,11 @@ I'm a meticulous data analyst, exploring insights from project inception to prob
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/waqas-ahmad-a5b903149/">
          <img alt="youtube views" title="YouTube views" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/WickyTheAnalyst?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://www.upwork.com/freelancers/~012c5eec82d3610ef6">
          <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
-       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+       <a href="https://public.tableau.com/app/profile/waqas.ahmad3085/vizzes">
          <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/></a>
    </p>
 
