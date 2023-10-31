@@ -1,6 +1,7 @@
 # 🏄‍♂️ Waqas Ahmad
 
 **`Data Analyst (Analytics Specialist/Business Intelligence Generater/Data Nerd)`**
+
 I'm a meticulous data analyst, exploring insights from project inception to problem-solving. From ideation to data collection, advanced analytics, and machine learning modeling, I deliver actionable insights for data-informed decisions.
 
 
