@@ -7,7 +7,7 @@ I'm a meticulous data analyst, exploring insights from project inception to prob
 
 ---
    <p align="left">
-      <a href="https://few-part-810763.framer.app/">
+      <a href="https://few-part-810763.framer.app/" target="_blank">
          <img alt="youtube subscribers" title="My Portfolio Website" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a> 
       <a href="mailto:waqasbinsaifullah@gmail.com">
          <img alt="youtube subscribers" title="Send me a mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
