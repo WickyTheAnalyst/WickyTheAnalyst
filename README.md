@@ -9,10 +9,7 @@ I'm a meticulous data analyst, exploring insights from project inception to prob
    <p align="left">
       <a href="https://few-part-810763.framer.app/" target="_blank">
          <img alt="youtube subscribers" title="My Portfolio Website" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a> 
-      <a href="mailto:waqasbinsaifullah@gmail.com">
-         <img alt="youtube subscribers" title="Send me a mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-      <a href="https://www.linkedin.com/in/waqas-ahmad-a5b903149/">
-         <img alt="youtube views" title="Connect with me via linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+      </a> 
       <a href="https://github.com/WickyTheAnalyst?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://www.upwork.com/freelancers/~012c5eec82d3610ef32236">
